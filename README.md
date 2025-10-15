@@ -21,6 +21,6 @@ The pipeline is fully reproducible using open-source R packages and follows stan
 
 ## Data Availability
 The dataset contains personally sensitive information and cannot be made public.
-De-identified data may be available upon reasonable request and under authors approval.
+De-identified data can obtain it from the researcher upon reasonable request.
 
 
